@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "InstagramUploaderApi.Controllers.InstagramController",
+    "Method": "PublishPost",
+    "RelativePath": "api/Instagram/publish",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "InstagramUploaderApi.Models.InstagramPublishRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
