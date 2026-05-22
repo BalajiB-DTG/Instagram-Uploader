@@ -1,0 +1,53 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# Debug/Release folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# ASP.NET
+appsettings.Development.json
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test results
+TestResults/
+
+# Generated files
+Generated/
+
+# Publish output
+publish/
+
+# IIS Express
+iisexpress/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
